@@ -68,13 +68,13 @@ expense tracker
 
 ## 📌Screenshots
 1.Entering the amount of expense and selecting its category from drop down
-![alt text](image.png)
+<img width="873" height="987" alt="image" src="https://github.com/user-attachments/assets/b31d25d1-3a75-4948-9bc8-f69145a4aebb" />
 
 2.Adding the expense in the record
-![alt text](image-1.png)
+<img width="870" height="983" alt="image-1" src="https://github.com/user-attachments/assets/5ad6b474-b77a-420d-96ed-0518df3a16a2" />
 
 3.If the amount entered is not numeric
-![alt text](image-2.png)
+<img width="1013" height="950" alt="image-2" src="https://github.com/user-attachments/assets/2ad2e373-7601-41c0-8f3e-9f1e26d25cc0" />
 
 4.Deleting a record
-![alt text](image-3.png)
+<img width="872" height="970" alt="image-3" src="https://github.com/user-attachments/assets/2e1075d0-4d53-450f-bc82-4abb28e33329" />
